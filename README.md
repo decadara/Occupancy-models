@@ -1,4 +1,4 @@
 # Occupancy models
 Creation of INP file for Occupancy models.
 
-Run in Rstudio or like script. 
+Run in Rstudio.
